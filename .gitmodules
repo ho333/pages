@@ -4,3 +4,6 @@
 [submodule "themes/lightbi-hugo"]
 	path = themes/lightbi-hugo
 	url = https://github.com/binokochumolvarghese/lightbi-hugo
+[submodule "themes/simple-snipcart-shop"]
+	path = themes/simple-snipcart-shop
+	url = https://github.com/tylersayshi/simple-snipcart-shop.git

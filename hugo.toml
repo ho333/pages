@@ -39,6 +39,7 @@ theme = 'Agnes'
 	LeadDescription = "Our landing page template works for all the devices, so you only have to setup it once, and get beautiful results forever."
 	ButtonCaption = "Pricing & Plans"
 	ButtonURL = "http://google.com"
+	LeadImage = "images/banner.jpg"
 
 ################### Feature Columns (do not exceed 4) ####################
 
